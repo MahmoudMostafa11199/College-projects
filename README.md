@@ -1,1 +1,1 @@
-# project_collage
+# College projects
