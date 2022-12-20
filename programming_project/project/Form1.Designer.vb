@@ -159,6 +159,7 @@ Partial Class Form1
         Me.SidePanel.Name = "SidePanel"
         Me.SidePanel.Size = New System.Drawing.Size(7, 85)
         Me.SidePanel.TabIndex = 4
+        Me.SidePanel.Visible = False
         '
         'rd_male
         '
@@ -670,7 +671,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.White
+        Me.BackColor = System.Drawing.Color.LightGray
         Me.ClientSize = New System.Drawing.Size(985, 617)
         Me.Controls.Add(Me.PanelBMI)
         Me.Controls.Add(Me.Panel1)
@@ -679,7 +680,6 @@ Partial Class Form1
         Me.RightToLeft = System.Windows.Forms.RightToLeft.Yes
         Me.RightToLeftLayout = True
         Me.ShowIcon = False
-        Me.Text = "Form1"
         Me.Panel1.ResumeLayout(False)
         CType(Me.track_age, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.track_height, System.ComponentModel.ISupportInitialize).EndInit()

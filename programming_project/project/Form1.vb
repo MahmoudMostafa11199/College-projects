@@ -22,6 +22,7 @@
     End Sub
 
     Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles btn_data.Click
+        SidePanel.Visible = True
         SidePanel.Top = btn_data.Top
         SidePanel.BackColor = Color.DodgerBlue
         Personal_data1.Visible = True
@@ -29,10 +30,9 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_bmr.Click
-        'Form2.Show()
-        'Me.Hide()
         PanelBMR.Visible = True
         PanelBMI.Visible = False
+        SidePanel.Visible = True
         SidePanel.Top = btn_bmr.Top
         SidePanel.BackColor = Color.FromArgb(237, 71, 102)
 
@@ -45,11 +45,10 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btn_bmi.Click
-        'Form5.Show()
-        'Me.Hide()
         PanelBMR.Visible = False
         PanelBMI.Visible = True
         Personal_data1.Visible = False
+        SidePanel.Visible = True
         SidePanel.Top = btn_bmi.Top
         SidePanel.BackColor = Color.FromArgb(20, 150, 124)
 
