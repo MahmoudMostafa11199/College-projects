@@ -1,0 +1,9 @@
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\bin\Debug\code_1.exe.config
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\obj\Debug\code_1.exe
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\obj\Debug\code_1.xml
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\obj\Debug\code_1.pdb
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\bin\Debug\code_1.exe
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\bin\Debug\code_1.pdb
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\bin\Debug\code_1.xml
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\obj\Debug\code_1.Resources.resources
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\vb\code_1\obj\Debug\vb.vbproj.GenerateResource.Cache

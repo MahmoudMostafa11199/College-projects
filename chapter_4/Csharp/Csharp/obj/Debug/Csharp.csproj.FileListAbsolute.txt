@@ -1,0 +1,6 @@
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\bin\Debug\Csharp.exe.config
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\bin\Debug\Csharp.exe
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\bin\Debug\Csharp.pdb
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\obj\Debug\Csharp.exe
+D:\The College\Third Year\البرمجة\Tasks\chapter_4\Csharp\Csharp\obj\Debug\Csharp.pdb
