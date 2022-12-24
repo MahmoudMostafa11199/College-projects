@@ -19,38 +19,12 @@
 
         Personal_data1.Dock = DockStyle.Fill
 
-    End Sub
-
-    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles btn_data.Click
-        SidePanel.Visible = True
-        SidePanel.Top = btn_data.Top
-        SidePanel.BackColor = Color.DodgerBlue
-        Personal_data1.Visible = True
-        PanelBMI.Visible = True
-    End Sub
-
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_bmr.Click
-        PanelBMR.Visible = True
-        PanelBMI.Visible = False
-        SidePanel.Visible = True
-        SidePanel.Top = btn_bmr.Top
-        SidePanel.BackColor = Color.FromArgb(237, 71, 102)
-
         track_age.Minimum = 1
         track_height.Minimum = 50
         track_weight.Minimum = 1
         track_age.Maximum = 100
         track_height.Maximum = 250
         track_weight.Maximum = 250
-    End Sub
-
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btn_bmi.Click
-        PanelBMR.Visible = False
-        PanelBMI.Visible = True
-        Personal_data1.Visible = False
-        SidePanel.Visible = True
-        SidePanel.Top = btn_bmi.Top
-        SidePanel.BackColor = Color.FromArgb(20, 150, 124)
 
         track_age_bmi.Minimum = 1
         track_height_bmi.Minimum = 50
@@ -58,6 +32,33 @@
         track_age_bmi.Maximum = 100
         track_height_bmi.Maximum = 250
         track_weight_bmi.Maximum = 250
+    End Sub
+    '
+    'Button Show data student
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles btn_data.Click
+        SidePanel.Top = btn_data.Top
+        SidePanel.BackColor = Color.DodgerBlue
+        Personal_data1.Visible = True
+        PanelBMI.Visible = True
+    End Sub
+
+    'Button Show calculator BMR
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_bmr.Click
+        PanelBMR.Visible = True
+        PanelBMI.Visible = False
+        SidePanel.Top = btn_bmr.Top
+        SidePanel.BackColor = Color.FromArgb(237, 71, 102)
+
+    End Sub
+
+    'Button Show calculator BMI
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btn_bmi.Click
+        PanelBMR.Visible = False
+        PanelBMI.Visible = True
+        Personal_data1.Visible = False
+        SidePanel.Top = btn_bmi.Top
+        SidePanel.BackColor = Color.FromArgb(20, 150, 124)
+
     End Sub
 
     Private Sub track_age_Scroll(sender As Object, e As EventArgs) Handles track_age.Scroll, track_height.Scroll, track_weight.Scroll
@@ -122,7 +123,6 @@
                 bmr = bmr * 1.9
             End If
 
-            'Me.Hide()
             Form3.Show()
 
             Form3.l1.Text = "احتياجاتك اليومية من السعرات الحرارية هي " + bmr.ToString("#") + " سعرة حرارية"
@@ -141,9 +141,6 @@
         rd_female.Checked = True
     End Sub
 
-    Private Sub PanelBMI_Paint(sender As Object, e As PaintEventArgs)
-
-    End Sub
 
     Private Sub track_age_bmi_Scroll(sender As Object, e As EventArgs) Handles track_weight_bmi.Scroll, track_height_bmi.Scroll, track_age_bmi.Scroll
         txt_age_bmi.Text = track_age_bmi.Value

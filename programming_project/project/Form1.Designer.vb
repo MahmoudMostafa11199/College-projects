@@ -159,7 +159,6 @@ Partial Class Form1
         Me.SidePanel.Name = "SidePanel"
         Me.SidePanel.Size = New System.Drawing.Size(7, 85)
         Me.SidePanel.TabIndex = 4
-        Me.SidePanel.Visible = False
         '
         'rd_male
         '

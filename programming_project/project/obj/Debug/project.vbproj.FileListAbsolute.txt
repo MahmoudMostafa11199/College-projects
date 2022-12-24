@@ -29,18 +29,18 @@ D:\The College\Third Year\البرمجة\project\project\bin\Debug\project.exe
 D:\The College\Third Year\البرمجة\project\project\bin\Debug\project.pdb
 D:\The College\Third Year\البرمجة\project\project\bin\Debug\project.xml
 D:\The College\Third Year\البرمجة\project\project\obj\Debug\project.personal_data.resources
-D:\The College\Third Year\project_collage\programming_project\project\bin\Debug\project.exe.config
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.exe
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.xml
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.pdb
-D:\The College\Third Year\project_collage\programming_project\project\bin\Debug\project.exe
-D:\The College\Third Year\project_collage\programming_project\project\bin\Debug\project.pdb
-D:\The College\Third Year\project_collage\programming_project\project\bin\Debug\project.xml
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Form1.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Form3.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Form4.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Form6.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Form7.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.Resources.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.personal_data.resources
-D:\The College\Third Year\project_collage\programming_project\project\obj\Debug\project.vbproj.GenerateResource.Cache
+H:\project\programing\project\project\bin\Debug\project.exe.config
+H:\project\programing\project\project\obj\Debug\project.exe
+H:\project\programing\project\project\obj\Debug\project.xml
+H:\project\programing\project\project\obj\Debug\project.pdb
+H:\project\programing\project\project\bin\Debug\project.exe
+H:\project\programing\project\project\bin\Debug\project.pdb
+H:\project\programing\project\project\bin\Debug\project.xml
+H:\project\programing\project\project\obj\Debug\project.Form1.resources
+H:\project\programing\project\project\obj\Debug\project.Form3.resources
+H:\project\programing\project\project\obj\Debug\project.Form4.resources
+H:\project\programing\project\project\obj\Debug\project.Form6.resources
+H:\project\programing\project\project\obj\Debug\project.Form7.resources
+H:\project\programing\project\project\obj\Debug\project.Resources.resources
+H:\project\programing\project\project\obj\Debug\project.personal_data.resources
+H:\project\programing\project\project\obj\Debug\project.vbproj.GenerateResource.Cache
